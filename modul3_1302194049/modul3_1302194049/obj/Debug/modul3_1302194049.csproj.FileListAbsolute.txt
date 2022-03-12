@@ -1,0 +1,8 @@
+C:\Users\Nandaardian19\source\repos\modul3_1302194049\modul3_1302194049\obj\Debug\modul3_1302194049.csproj.AssemblyReference.cache
+C:\Users\Nandaardian19\source\repos\modul3_1302194049\modul3_1302194049\obj\Debug\modul3_1302194049.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nandaardian19\source\repos\modul3_1302194049\modul3_1302194049\obj\Debug\modul3_1302194049.csproj.CoreCompileInputs.cache
+C:\Users\Nandaardian19\source\repos\modul3_1302194049\modul3_1302194049\bin\Debug\modul3_1302194049.exe.config
+C:\Users\Nandaardian19\source\repos\modul3_1302194049\modul3_1302194049\bin\Debug\modul3_1302194049.exe
+C:\Users\Nandaardian19\source\repos\modul3_1302194049\modul3_1302194049\bin\Debug\modul3_1302194049.pdb
+C:\Users\Nandaardian19\source\repos\modul3_1302194049\modul3_1302194049\obj\Debug\modul3_1302194049.exe
+C:\Users\Nandaardian19\source\repos\modul3_1302194049\modul3_1302194049\obj\Debug\modul3_1302194049.pdb
